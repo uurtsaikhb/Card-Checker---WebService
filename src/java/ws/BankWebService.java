@@ -100,5 +100,11 @@ public class BankWebService {
         
         return false;
     }
+    
+    
+    public boolean checkVisa (Card card) {
+        
+        return false;
+    }
 
 }
